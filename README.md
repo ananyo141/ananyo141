@@ -1,26 +1,29 @@
-# Ananyobrata Pal
-<a href="https://www.github.com/ananyo141" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="mailto:ananyo141@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/ananyobrata-pal-7b5178200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCWKZrf6tn3NMOnb8gpgeqMg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
-<a href="https://www.facebook.com/ananyobrata.pal" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" height="25"></a>&nbsp;
+## Ananyobrata Pal
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <a href="https://www.github.com/ananyo141" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+  <a href="mailto:ananyo141@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ananyobrata-pal-7b5178200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCWKZrf6tn3NMOnb8gpgeqMg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
+  <a href="https://www.facebook.com/ananyobrata.pal" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" height="25"></a>&nbsp;
+</div>
 
-## 👋 Hello World, I'm Ananyo
-I am a CSE Undergrad diving into the world of technology, interested in building full stack web and mobile apps and obsessed with archlinux and vim.
-
-![Profile Views](https://komarev.com/ghpvc/?username=ananyo141&theme=default&color=blue&style=flat&label=Profile+Views)
+## 👋 Hello World, I'm Ananyo ![Profile Views](https://komarev.com/ghpvc/?username=ananyo141&theme=default&color=blue&style=flat&label=Profile+Views)
+I am a CSE Undergrad diving into the world of technology, interested in building full stack apps and obsessed with ArchLinux and (N)vim.
 
 ## About me
 🔭&nbsp;I’m currently working on **Full-Stack Projects, Internships**
 <br/>🎓&nbsp;Graduated in **CSE from Netaji Subhash Engineering College (in 2024)**
-<br/>🌱&nbsp;Learning about **Full Stack Development and Competitive Programming**
-<br/>💡&nbsp;I'm interested about **Linux and Unix, Vim, Developer Workflow, Movies, Series**
-<br/>💬&nbsp;Ask me about **Arch Linux, Development, Movies**
+<br/>🌱&nbsp;Learning about **Web Dev, App Dev and Competitive Programming**
+<br/>💡&nbsp;I'm interested about **Unix, Vim, DevOps, HollyWood**
+<br/>💬&nbsp;Ask me about **Arch Linux, Ricing, Grokking Systems**
 <br/>🤝&nbsp;I like to collaborate in **Open Source Projects**
 <br/>😄&nbsp;Pronouns **He/His**
-<br/>⚡&nbsp;Fun fact **I'm funny and caring, can kill you with kindness ;)**
+<br/>⚡&nbsp;Fun fact **I like to talk and socialize**
 <br/>📫&nbsp;Reach me [ananyo141@gmail.com](mailto:ananyo141@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [ananyo141.github.io](www.ananyo141.github.io)
+<br/>🖥&nbsp; See my portfolio at [ananyo141.github.io](https://ananyo141.github.io)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
