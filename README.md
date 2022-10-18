@@ -11,11 +11,16 @@
 </div>
 
 ## 👋 Hello World, I'm Ananyo ![Profile Views](https://komarev.com/ghpvc/?username=ananyo141&theme=default&color=blue&style=flat&label=Profile+Views)
-I am a CSE Undergrad diving into the world of technology, interested in building full stack apps and obsessed with ArchLinux and (N)vim.
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+<p><em>I am a CSE Undergrad diving into the world of technology, interested in building full stack apps.<br/>
+An Open Source advocate obsessed with ArchLinux and (N)vim.</em></p>
+
+&nbsp;
 
 ## About me
 🔭&nbsp;I’m currently working on **Full-Stack Projects, Internships**
-<br/>🎓&nbsp;Graduated in **CSE from Netaji Subhash Engineering College (in 2024)**
+<br/>🎓&nbsp;Graduated in **CSE from [Netaji Subhash Engineering College](https://nsec.ac.in) (in 2024)**
 <br/>🌱&nbsp;Learning about **Web Dev, App Dev and Competitive Programming**
 <br/>💡&nbsp;I'm interested about **Unix, Vim, DevOps, HollyWood**
 <br/>💬&nbsp;Ask me about **Arch Linux, Ricing, Grokking Systems**
@@ -53,8 +58,6 @@ I am a CSE Undergrad diving into the world of technology, interested in building
 <img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
 
 ## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananyo141&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyo141&theme=default&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyo141&theme=default">
-</div>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananyo141&theme=gotham&show_icons=true&count_private=true"><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyo141&theme=gotham&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyo141&theme=default&theme=gotham">
